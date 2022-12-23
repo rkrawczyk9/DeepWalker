@@ -1,0 +1,8 @@
+pybullet
+gym
+stable-baselines3[extra]
+
+matplotlib
+ffmpeg-python
+tabulate
+screeninfo
