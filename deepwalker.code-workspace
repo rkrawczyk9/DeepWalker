@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../DeepWalkerAnims"
+		},
+		{
+			"path": "C:/Users/rmore/Documents/maya/2020"
 		}
 	],
 	"settings": {}

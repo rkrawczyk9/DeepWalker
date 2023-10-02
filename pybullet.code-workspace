@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "deepwalker_venv/Lib/site-packages/pybullet_data"
+		},
+		{
+			"path": "deepwalker_venv/Lib/site-packages/pybullet_envs"
+		},
+		{
+			"path": "deepwalker_venv/Lib/site-packages/pybullet_examples"
+		},
+		{
+			"path": "deepwalker_venv/Lib/site-packages/pybullet_robots"
+		},
+		{
+			"path": "deepwalker_venv/Lib/site-packages/pybullet_utils"
+		},
+		{
+			"path": "deepwalker_venv/Lib/site-packages/pybullet-3.2.5-py3.9.egg-info"
+		},
+		{
+			"path": "R:/Code/my_pybullet_tests"
+		}
+	]
+}

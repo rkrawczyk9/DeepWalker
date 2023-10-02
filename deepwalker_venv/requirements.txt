@@ -2,7 +2,9 @@ pybullet
 gym
 stable-baselines3[extra]
 
+tensorflow
+mpi4py
+
 matplotlib
-ffmpeg-python
 tabulate
 screeninfo
